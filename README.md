@@ -1,5 +1,3 @@
-# aws-serverless-feedback-system
-
 # 🚀 AWS Serverless Feedback Collection System
 
 A fully serverless feedback collection application built using AWS services with automated CI/CD deployment using GitHub Actions.
